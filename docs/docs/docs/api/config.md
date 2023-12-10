@@ -449,7 +449,7 @@ Warning: There are 1 unused files:
   { 
     'process.env.NODE_ENV' : process.env.NODE_ENV,
     'process.env.HMR' : process.env.HMR, 
-    'process.env.SOCKET_SERVER': process.env.ERROR_OVERLAY' 
+    'process.env.SOCKET_SERVER': process.env.ERROR_OVERLAY
   }
 ```
 
